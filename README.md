@@ -30,4 +30,3 @@ Smile Selfie Capture is an intelligent and interactive computer vision project t
 
 ## Why Smile Selfie Capture?  
 Smile Selfie Capture provides a unique and engaging way to take selfies, perfect for fun applications or as an interactive tech demo for computer vision capabilities. It’s simple, efficient, and showcases the power of real-time detection, automation, and user interactivity using OpenCV.  
->>>>>>> 5761d0b9e6a6f217d742e8317a68e05c09875443
